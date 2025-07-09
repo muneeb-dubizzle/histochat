@@ -1,7 +1,7 @@
 # 🧠 Histochat – Create & Learn from AI Personalities
 
 **Histochat** is an interactive educational SaaS platform that empowers learners to create their own custom **AI personalities** powered by GPT models. Users can simulate conversations with historical figures, scientists, fictional characters, or any custom mentor—making education immersive, personalized, and fun.
-
+ 
 ---
 
 ## 🚀 Features
