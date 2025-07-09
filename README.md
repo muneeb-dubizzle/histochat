@@ -53,7 +53,6 @@ histochat/
 │ └── config/ # Env, DB setup
 └── README.md
 
-
 ---
 
 ## 🧪 Local Setup
