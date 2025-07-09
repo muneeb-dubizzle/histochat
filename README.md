@@ -41,16 +41,27 @@
 
 histochat/
 ├── client/ # React frontend
+
 │ ├── components/ # Reusable UI components
+
 │ ├── pages/ # Routes like /dashboard, /chat, /profile
+
 │ ├── hooks/ # Custom React hooks
+
 │ ├── utils/ # Helper functions
+
 │ └── assets/ # Images, icons, etc.
+
 ├── server/ # Backend API
+
 │ ├── routes/ # REST API endpoints
+
 │ ├── controllers/ # Logic for chat, users, personas
+
 │ ├── models/ # Mongoose / ORM schemas
+
 │ └── config/ # Env, DB setup
+
 └── README.md
 
 ---
